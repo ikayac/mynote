@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "ad4af46d10364f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9c9711f017ef2e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "345727194cefc789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      },
+      {
+        "id": "067d290637061267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5215340f9cc81ab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "261947cf9cda595f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e58f20f7a79f49ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e7576281de4f5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "2d5cb8746d762cf1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "6b7eb26e82d6b10d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "825051597e5bdf4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a974e1c86abebb8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f80ba2413b390b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Welcomeへのバックリンク"
+            }
+          },
+          {
+            "id": "dc624e173c7b5c74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Welcomeからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "352a14b7d1741378",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "308acaf1488c716d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "0ee99c7181f87d7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Welcomeのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "fit:Sync to GitHub": false
+    }
+  },
+  "active": "b1e7576281de4f5b",
+  "lastOpenFiles": [
+    "template/🤖 Gemini Log.md",
+    "template/☄️dairy.md",
+    "template",
+    "study/reference/本_リスク・アセットマネジメントのための統計推理.pdf",
+    "study/reference",
+    "study/notes/methodology.md",
+    "study/notes/04_寿命予測モデル.md",
+    "study/notes",
+    "study",
+    "examples/visualization_example.py",
+    "examples/sample_output.txt",
+    "examples",
+    "dairy/260127 火 午前0925.md",
+    "dairy/260126 月 午後0949.md",
+    "dairy/260121 水 午前0734 変な英会話.md",
+    "dairy/260121 水 午前0723.md",
+    "dairy/260102 04時02分マルコフ勉強.md",
+    "dairy/251231デイリー.md",
+    "dairy/251231 21時30分.md",
+    "dairy/251231 13時12分Antigravityルールファイル.md",
+    "dairy",
+    "apps/README.md",
+    "apps",
+    "劣化予測モデルの高度化：批判的検証と対応策の完全リスト.md",
+    "無題のファイル.canvas",
+    "混合マルコフモデルのパラメータ推定（最尤法）.md",
+    "混合マルコフモデルのパラメータ推定（逆問題）.md",
+    "マルコフモデルの係数決定ルール.md",
+    "UFJdebt.md",
+    "TROUBLESHOOTING.md",
+    "README.md",
+    "attachment.md",
+    "260115 2251 daily.md",
+    "260113 0854 Daily.md",
+    "Welcome.md"
+  ]
+}
